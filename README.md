@@ -12,7 +12,7 @@ I'm Kai, founder of **FIDARYN**. I started building websites at 14, later worked
 
 Today I build AI that runs real operations inside clear limits.
 An online shop runs autonomously:
-. **31 digital employees in seven departments**, 16 of them AI agents with their own role. 
+- **31 digital employees in seven departments**, 16 of them AI agents with their own role. 
 - They handle product data, prices, stock, purchasing, marketing and customer service. 
 - Supplier orders only go out with approval.
 
