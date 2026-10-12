@@ -10,7 +10,11 @@
 
 I'm Kai, founder of **FIDARYN**. I started building websites at 14, later worked as a technician and technical lead, and ran my own car workshop for several years. I know what happens when a system has to work on a real shop floor, not just on paper.
 
-Today I build AI that runs real operations inside clear limits. An online shop runs autonomously: **31 digital employees in seven departments**, 16 of them AI agents with their own role. They handle product data, prices, stock, purchasing, marketing and customer service. Supplier orders only go out with approval.
+Today I build AI that runs real operations inside clear limits.
+An online shop runs autonomously:
+. **31 digital employees in seven departments**, 16 of them AI agents with their own role. 
+- They handle product data, prices, stock, purchasing, marketing and customer service. 
+- Supplier orders only go out with approval.
 
 My working principles:
 
@@ -32,7 +36,9 @@ My working principles:
 
 Most companies don't have an AI problem. They have a **complexity problem**: email, accounting, tax advisor, CRM, files, calendar, ERP, online shop, industry software. Every extra system brings new logins, new interfaces and information that has to be merged somewhere.
 
-A business owner should not have to configure an AI stack. They should be able to say: *"I need someone for this task."* That is how FIDARYN is meant to work. You set up a digital employee with its role, tasks, permissions, systems and area of responsibility. FIDARYN handles the models and tools in the background.
+A business owner should not have to configure an AI stack. They should be able to say: *"I need someone for this task."* That is how FIDARYN is meant to work. 
+You set up a digital employee with its role, tasks, permissions, systems and area of responsibility. 
+FIDARYN handles the models and tools in the background.
 
 | Connected systems | Human oversight | Lasting knowledge |
 | :--- | :--- | :--- |
